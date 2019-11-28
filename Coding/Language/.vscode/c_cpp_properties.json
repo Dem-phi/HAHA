@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "E:\\Arduino\\Arduino\\hardware\\tools\\avr\\avr\\include\\avr",
+                "E:\\Arduino\\Arduino\\tools\\**",
+                "E:\\Arduino\\Arduino\\hardware\\arduino\\avr\\**",
+                "E:\\Arduino\\Arduino\\libraries\\TFT\\src\\utility"
+            ],
+            "forcedInclude": [
+                "E:\\Arduino\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "E:\\Codeblock\\CodeBlocks\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
